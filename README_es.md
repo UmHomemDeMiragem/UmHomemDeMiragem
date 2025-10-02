@@ -14,6 +14,12 @@
   <img src="https://komarev.com/ghpvc/?username=UmHomemDeMiragem&color=blue&style=flat-square" alt="Contador de Visitantes">
 </div>
 
+> 📌 **Nota de Configuración:** Este README contiene enlaces de marcador de posición que deben configurarse. **[Haga clic aquí para la guía paso a paso](./CONFIGURACAO_PASSO_A_PASSO.md)** o consulte:
+> - 🚀 [Guía Paso a Paso](./CONFIGURACAO_PASSO_A_PASSO.md)
+> - ⚡ [Referencia Rápida](./LINKS_QUICK_REFERENCE.md)
+> - 📖 [Guía Completa](./LINKS_CONFIG.md)
+> - 🎨 [Ejemplos Visuales](./EXEMPLOS_CONFIGURACAO.md)
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-readme-examples/github-profile-badge.svg" width="30" height="30" alt="Desarrollador"> ¡Hola, Agentes del Conocimiento e Innovación! Soy УмХомемДеМиражем (UmHomemDeMiragem) ️🤖
 </h1>

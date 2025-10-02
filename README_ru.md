@@ -14,6 +14,12 @@
   <img src="https://komarev.com/ghpvc/?username=UmHomemDeMiragem&color=blue&style=flat-square" alt="Счетчик посещений">
 </div>
 
+> 📌 **Примечание по конфигурации:** Этот README содержит заполнители ссылок, которые необходимо настроить. **[Щелкните здесь, чтобы ознакомиться с пошаговым руководством](./CONFIGURACAO_PASSO_A_PASSO.md)** или см.:
+> - 🚀 [Пошаговое руководство](./CONFIGURACAO_PASSO_A_PASSO.md)
+> - ⚡ [Краткая справка](./LINKS_QUICK_REFERENCE.md)
+> - 📖 [Полное руководство](./LINKS_CONFIG.md)
+> - 🎨 [Визуальные примеры](./EXEMPLOS_CONFIGURACAO.md)
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-readme-examples/github-profile-badge.svg" width="30" height="30" alt="Разработчик"> Привет, Агенты Знаний и Инноваций! Я УмХомемДеМиражем (UmHomemDeMiragem) ️🤖
 </h1>
