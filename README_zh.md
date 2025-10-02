@@ -14,6 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=UmHomemDeMiragem&color=blue&style=flat-square" alt="访客计数">
 </div>
 
+> 📌 **配置说明：** 此README包含需要配置的占位符链接。请参阅 [`LINKS_CONFIG.md`](./LINKS_CONFIG.md) 获取详细说明或 [`LINKS_QUICK_REFERENCE.md`](./LINKS_QUICK_REFERENCE.md) 获取快速参考。
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-readme-examples/github-profile-badge.svg" width="30" height="30" alt="开发者"> 大家好，知识与创新的代理们！我是 УмХомемДеМиражем (UmHomemDeMiragem) ️🤖
 </h1>
