@@ -46,7 +46,7 @@ Este documento fornece instruções detalhadas sobre como configurar todos os li
   - `README_pt-br.md` (linha ~34): `[URL do seu Perfil Twitter]`
   - `README_es.md` (linha ~34): `[URL de tu perfil de Twitter]`
   - `README_ru.md` (linha ~34): `[Ваш URL-адрес профиля Twitter]`
-  - `README_zh.md` (linha ~34): `[你的Twitter个人资料URL]`
+  - `README_zh.md` (linha ~36): `[你的Twitter个人资料URL]`
 
 ### 5. Discord
 **Onde encontrar:** Você pode usar um link de convite do seu servidor ou criar um link personalizado.
@@ -58,9 +58,9 @@ Este documento fornece instruções detalhadas sobre como configurar todos os li
 - **Arquivos a atualizar:**
   - `README.md` (linha ~35 e ~188): `[Your Discord ID Link]`
   - `README_pt-br.md` (linha ~35 e ~188): `[Link do seu ID Discord]`
-  - `README_es.md` (linha ~35): `[Link de tu ID de Discord]`
+  - `README_es.md` (linha ~37 e ~190): `[Enlace a tu ID de Discord]`
   - `README_ru.md` (linha ~35 e ~188): `[Ваша ссылка на Discord ID]`
-  - `README_zh.md` (linha ~35): `[你的Discord ID链接]`
+  - `README_zh.md` (linha ~35 e ~188): `[你的Discord ID链接]`
 
 ### 6. Email
 **Onde encontrar:** Use seu email de contato profissional.
@@ -69,7 +69,7 @@ Este documento fornece instruções detalhadas sobre como configurar todos os li
 - **Arquivos a atualizar:**
   - `README.md` (linha ~187): `[Your Contact Email]`
   - `README_pt-br.md` (linha ~187): `[Seu e-mail de contato]`
-  - `README_es.md` (linha ~187): `[Tu correo electrónico de contacto]`
+  - `README_es.md` (linha ~189): `[Tu correo electrónico de contacto]`
   - `README_ru.md` (linha ~187): `[Ваш контактный Email]`
   - `README_zh.md` (linha ~187): `[你的联系邮箱]`
 
