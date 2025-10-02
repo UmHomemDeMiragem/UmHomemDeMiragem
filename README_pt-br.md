@@ -14,7 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=UmHomemDeMiragem&color=blue&style=flat-square" alt="Contador de Visitantes">
 </div>
 
-> 📌 **Nota de Configuração:** Este README contém links placeholder que precisam ser configurados. Consulte [`LINKS_CONFIG.md`](./LINKS_CONFIG.md) para instruções detalhadas ou [`LINKS_QUICK_REFERENCE.md`](./LINKS_QUICK_REFERENCE.md) para uma referência rápida.
+> 📌 **Nota de Configuração:** Este README contém links placeholder que precisam ser configurados. **[Clique aqui para o guia passo a passo](./CONFIGURACAO_PASSO_A_PASSO.md)** ou consulte:
+> - 🚀 [Guia Passo a Passo](./CONFIGURACAO_PASSO_A_PASSO.md)
+> - ⚡ [Referência Rápida](./LINKS_QUICK_REFERENCE.md)
+> - 📖 [Guia Completo](./LINKS_CONFIG.md)
+> - 🎨 [Exemplos Visuais](./EXEMPLOS_CONFIGURACAO.md)
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-readme-examples/github-profile-badge.svg" width="30" height="30" alt="Desenvolvedor"> Olá, Agentes do Conhecimento e Inovação! Eu sou УмХомемДеМиражем (UmHomemDeMiragem) ️🤖

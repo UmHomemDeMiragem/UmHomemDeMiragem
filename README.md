@@ -14,7 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=UmHomemDeMiragem&color=blue&style=flat-square" alt="Visitor Count">
 </div>
 
-> 📌 **Configuration Note:** This README contains placeholder links that need to be configured. See [`LINKS_CONFIG.md`](./LINKS_CONFIG.md) for detailed instructions or [`LINKS_QUICK_REFERENCE.md`](./LINKS_QUICK_REFERENCE.md) for a quick reference.
+> 📌 **Configuration Note:** This README contains placeholder links that need to be configured. **[Click here for step-by-step guide](./CONFIGURACAO_PASSO_A_PASSO.md)** or see:
+> - 🚀 [Step-by-Step Guide](./CONFIGURACAO_PASSO_A_PASSO.md)
+> - ⚡ [Quick Reference](./LINKS_QUICK_REFERENCE.md)
+> - 📖 [Complete Guide](./LINKS_CONFIG.md)
+> - 🎨 [Visual Examples](./EXEMPLOS_CONFIGURACAO.md)
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-readme-examples/github-profile-badge.svg" width="30" height="30" alt="Developer"> Hello, Agents of Knowledge & Innovation! I'm УмХомемДеМиражем (UmHomemDeMiragem) ️🤖
