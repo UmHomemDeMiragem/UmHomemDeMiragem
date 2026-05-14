@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/mnpax-39349a360"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kauadias4545@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://casadascamisetasoficial.com.br"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-six-omega-p4hrwyepvv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -132,7 +132,7 @@
 
 ## 🌍 语言能力
 
-![Português](https://img.shields.io/badge/葡萄牙语-母语-009c3b?style=flat-square)
-![English](https://img.shields.io/badge/英语-B1--B2-0052cc?style=flat-square)
-![Español](https://img.shields.io/badge/西班牙语-B1-aa151b?style=flat-square)
-![Русский](https://img.shields.io/badge/俄语-A1-003580?style=flat-square)
+![葡萄牙语](https://img.shields.io/badge/葡萄牙语-母语-009c3b?style=flat-square)
+![英语](https://img.shields.io/badge/英语-B1--B2-0052cc?style=flat-square)
+![西班牙语](https://img.shields.io/badge/西班牙语-B1-aa151b?style=flat-square)
+![俄语](https://img.shields.io/badge/俄语-A1-003580?style=flat-square)
